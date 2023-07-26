@@ -118,3 +118,8 @@ What to submit
 Deployed Frontend Live Link ( Vercel or any other platform)
 Your Frontend Github Repository Link
 You should add the links to the readme.md file.
+
+# Notes
+
+1. To manage the product's data, you need to create your own backend. This backend could be a single-page backend server or integrated with Next API routes.
+2. Do not use 'app' router.
