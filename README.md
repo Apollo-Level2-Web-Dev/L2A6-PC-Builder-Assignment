@@ -100,15 +100,6 @@ Build a clean and straightforward PC Builder website for PC parts and components
 - The entire application must be responsive for both mobile and desktop devices to ensure an enjoyable user experience across all devices.
 - Create a [ReadMe.md](http://ReadMe.md) file describing your application, explaining its features, and providing clear instructions on how to run the project.
 
-
-### Bonus Part:
-
-- The PC Builder Page should be a protected/private route (only logged-in users can visit this route). You have to use NextAuth with at least one social login provider to enable user authentication.
-- Clicking on the **Complete Build** button will show a success alert.
-- The Home page should also have a hero section/banner section and a footer.
-- The entire application must be responsive for both mobile and desktop devices to ensure an enjoyable user experience across all devices.
-- Create a [ReadMe.md](http://ReadMe.md) file describing your application, explaining its features, and providing clear instructions on how to run the project.
-
 # Deadline:
 60 Marks ( Till 29 July, Saturday 11.59 PM )
 50 Marks ( Till 30 July, Sunday 11.59 PM )
